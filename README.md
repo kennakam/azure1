@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tech0 Search — サンプルコード
 
 PROJECT ZERO / Step3-1 — マイクロサービス版 社内検索エンジン
@@ -18,3 +19,6 @@ backend/    FastAPI   (Python)    ← APIレイヤー
 
 **リリース手順書** を参照してください。
 ステップごとの手順・コード解説・よくあるエラーが記載されています。
+=======
+# azure1
+>>>>>>> edd9c214bb078901c24eb79baf1046cbedeb4369
